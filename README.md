@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohnishkumar Rajkumar (MKR)
 
-<!--
-**R-Mohnish-Kumar/R-Mohnish-Kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am an aspiring **AI and ML Engineer** with a passion for developing innovative solutions to challenging problems. Here's a bit more about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 **Currently Pursuing:** MSc in Artificial Intelligence at Birmingham City University.
+- 💡 **Key Interests:** Artificial Intelligence, Machine Learning, Data Science and Mobile App Development.
+- 🛠️ **Proficient in:** Python, Java, Flutter, Kotlin, Node.js, and MySQL.
+- 🎯 **Strengths:** Positive mindset, adaptability, and the ability to thrive in fast-paced environments.
+
+---
+
+## 🏗️ Portfolio Highlights
+### 🔍 Machine Learning Projects:
+- **Gender Vulnerability Analysis**: Crime prediction in Los Angeles using ML algorithms like XGBoost, Random Forest, Support Vector Machine (SVM), Gaussian Naive Bayes and K-Nearest Neighbors (KNN).
+- **Harry Virtual Assistant**: A personal assistant built with Python, Speech Recognition, and pyttsx3 libraries.
+
+### 🌐 Mobile Applications:
+- **Admission Plus**: A cross-platform mobile application for student registration built with Flutter.
+- **DataBank Libsoft**: A android modile app for library management with Java.
+---
+
+## 🧠 Skills and Tools
+### Programming Languages:
+- Python, Java, Dart, Kotlin, SQL
+
+### Frameworks and Libraries:
+- Node.js, Express.js, Flutter, Scikit-learn
+
+### Tools:
+- Git, Figma
+---
+
+## 🤝 Connect with Me
+- **LinkedIn:** [Mohnishkumar Rajkumar](https://www.linkedin.com/in/mohnish-kumar/)
+---
+
+Thank you for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or connect!
