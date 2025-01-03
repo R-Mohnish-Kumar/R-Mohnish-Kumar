@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I am an aspiring **AI and ML Engineer** with a pas
 
 ## 🏗️ Portfolio Highlights
 ### 🔍 Machine Learning Projects:
+- **Unveiling Crime Patterns in Chicago: A Topic Modeling and Hotspot Analysis**: This project analyzes Chicago's crime data using Latent Dirichlet Allocation (LDA) for topic modeling and Gaussian Mixture Models (GMM) for spatial clustering, combined with CatBoost for classification. It identifies latent crime patterns, visualizes risk hotspots, and provides actionable insights through interactive maps and data-driven analysis.
 - **Gender Vulnerability Analysis**: Crime prediction in Los Angeles using ML algorithms like XGBoost, Random Forest, Support Vector Machine (SVM), Gaussian Naive Bayes and K-Nearest Neighbors (KNN).
-- **Harry Virtual Assistant**: A personal assistant built with Python, Speech Recognition, and pyttsx3 libraries.
 
 ### 🌐 Mobile Applications:
 - **Admission Plus**: A cross-platform mobile application for student registration built with Flutter.
